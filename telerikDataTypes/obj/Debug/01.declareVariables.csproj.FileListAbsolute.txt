@@ -1,0 +1,7 @@
+C:\Users\peter.bozov\source\repos\telerikDataTypes\bin\Debug\telerikDataTypes.exe.config
+C:\Users\peter.bozov\source\repos\telerikDataTypes\bin\Debug\telerikDataTypes.exe
+C:\Users\peter.bozov\source\repos\telerikDataTypes\bin\Debug\telerikDataTypes.pdb
+C:\Users\peter.bozov\source\repos\telerikDataTypes\obj\Debug\01.declareVariables.csprojAssemblyReference.cache
+C:\Users\peter.bozov\source\repos\telerikDataTypes\obj\Debug\01.declareVariables.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\telerikDataTypes\obj\Debug\telerikDataTypes.exe
+C:\Users\peter.bozov\source\repos\telerikDataTypes\obj\Debug\telerikDataTypes.pdb
