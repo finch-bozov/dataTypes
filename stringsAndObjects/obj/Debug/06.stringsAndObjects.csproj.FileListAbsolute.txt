@@ -1,0 +1,6 @@
+C:\Users\peter.bozov\source\repos\stringsAndObjects\bin\Debug\stringsAndObjects.exe.config
+C:\Users\peter.bozov\source\repos\stringsAndObjects\bin\Debug\stringsAndObjects.exe
+C:\Users\peter.bozov\source\repos\stringsAndObjects\bin\Debug\stringsAndObjects.pdb
+C:\Users\peter.bozov\source\repos\stringsAndObjects\obj\Debug\06.stringsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\stringsAndObjects\obj\Debug\stringsAndObjects.exe
+C:\Users\peter.bozov\source\repos\stringsAndObjects\obj\Debug\stringsAndObjects.pdb

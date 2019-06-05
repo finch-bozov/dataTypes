@@ -1,0 +1,6 @@
+C:\Users\peter.bozov\source\repos\quotesAndStrings\bin\Debug\quotesAndStrings.exe.config
+C:\Users\peter.bozov\source\repos\quotesAndStrings\bin\Debug\quotesAndStrings.exe
+C:\Users\peter.bozov\source\repos\quotesAndStrings\bin\Debug\quotesAndStrings.pdb
+C:\Users\peter.bozov\source\repos\quotesAndStrings\obj\Debug\quotesAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\quotesAndStrings\obj\Debug\quotesAndStrings.exe
+C:\Users\peter.bozov\source\repos\quotesAndStrings\obj\Debug\quotesAndStrings.pdb

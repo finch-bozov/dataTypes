@@ -1,0 +1,6 @@
+C:\Users\peter.bozov\source\repos\exchangeVariables\bin\Debug\exchangeVariables.exe.config
+C:\Users\peter.bozov\source\repos\exchangeVariables\bin\Debug\exchangeVariables.exe
+C:\Users\peter.bozov\source\repos\exchangeVariables\bin\Debug\exchangeVariables.pdb
+C:\Users\peter.bozov\source\repos\exchangeVariables\obj\Debug\09.exchangeVariables.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\exchangeVariables\obj\Debug\exchangeVariables.exe
+C:\Users\peter.bozov\source\repos\exchangeVariables\obj\Debug\exchangeVariables.pdb

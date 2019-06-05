@@ -1,0 +1,6 @@
+C:\Users\peter.bozov\source\repos\floatOrDouble\obj\Debug\floatOrDouble.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\floatOrDouble\bin\Debug\floatOrDouble.exe.config
+C:\Users\peter.bozov\source\repos\floatOrDouble\bin\Debug\floatOrDouble.exe
+C:\Users\peter.bozov\source\repos\floatOrDouble\bin\Debug\floatOrDouble.pdb
+C:\Users\peter.bozov\source\repos\floatOrDouble\obj\Debug\floatOrDouble.exe
+C:\Users\peter.bozov\source\repos\floatOrDouble\obj\Debug\floatOrDouble.pdb

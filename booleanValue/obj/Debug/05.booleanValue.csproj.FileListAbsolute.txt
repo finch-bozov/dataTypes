@@ -1,0 +1,6 @@
+C:\Users\peter.bozov\source\repos\booleanValue\bin\Debug\booleanValue.exe.config
+C:\Users\peter.bozov\source\repos\booleanValue\bin\Debug\booleanValue.exe
+C:\Users\peter.bozov\source\repos\booleanValue\bin\Debug\booleanValue.pdb
+C:\Users\peter.bozov\source\repos\booleanValue\obj\Debug\05.booleanValue.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\booleanValue\obj\Debug\booleanValue.exe
+C:\Users\peter.bozov\source\repos\booleanValue\obj\Debug\booleanValue.pdb

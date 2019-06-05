@@ -1,0 +1,6 @@
+C:\Users\peter.bozov\source\repos\employeeData\bin\Debug\employeeData.exe.config
+C:\Users\peter.bozov\source\repos\employeeData\bin\Debug\employeeData.exe
+C:\Users\peter.bozov\source\repos\employeeData\bin\Debug\employeeData.pdb
+C:\Users\peter.bozov\source\repos\employeeData\obj\Debug\employeeData.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\employeeData\obj\Debug\employeeData.exe
+C:\Users\peter.bozov\source\repos\employeeData\obj\Debug\employeeData.pdb

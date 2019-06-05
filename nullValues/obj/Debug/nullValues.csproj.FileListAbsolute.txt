@@ -1,0 +1,6 @@
+C:\Users\peter.bozov\source\repos\nullValues\obj\Debug\nullValues.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\nullValues\bin\Debug\nullValues.exe.config
+C:\Users\peter.bozov\source\repos\nullValues\bin\Debug\nullValues.exe
+C:\Users\peter.bozov\source\repos\nullValues\bin\Debug\nullValues.pdb
+C:\Users\peter.bozov\source\repos\nullValues\obj\Debug\nullValues.exe
+C:\Users\peter.bozov\source\repos\nullValues\obj\Debug\nullValues.pdb

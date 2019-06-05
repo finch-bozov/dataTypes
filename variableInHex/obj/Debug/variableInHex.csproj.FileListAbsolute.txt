@@ -1,0 +1,6 @@
+C:\Users\peter.bozov\source\repos\variableInHex\obj\Debug\variableInHex.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\variableInHex\bin\Debug\variableInHex.exe.config
+C:\Users\peter.bozov\source\repos\variableInHex\bin\Debug\variableInHex.exe
+C:\Users\peter.bozov\source\repos\variableInHex\bin\Debug\variableInHex.pdb
+C:\Users\peter.bozov\source\repos\variableInHex\obj\Debug\variableInHex.exe
+C:\Users\peter.bozov\source\repos\variableInHex\obj\Debug\variableInHex.pdb

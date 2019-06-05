@@ -1,0 +1,6 @@
+C:\Users\peter.bozov\source\repos\bankAccount\bin\Debug\bankAccount.exe.config
+C:\Users\peter.bozov\source\repos\bankAccount\bin\Debug\bankAccount.exe
+C:\Users\peter.bozov\source\repos\bankAccount\bin\Debug\bankAccount.pdb
+C:\Users\peter.bozov\source\repos\bankAccount\obj\Debug\11.bankAccount.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\bankAccount\obj\Debug\bankAccount.exe
+C:\Users\peter.bozov\source\repos\bankAccount\obj\Debug\bankAccount.pdb

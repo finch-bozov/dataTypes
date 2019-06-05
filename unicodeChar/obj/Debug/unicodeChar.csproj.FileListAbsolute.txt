@@ -1,0 +1,6 @@
+C:\Users\peter.bozov\source\repos\unicodeChar\obj\Debug\unicodeChar.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\unicodeChar\bin\Debug\unicodeChar.exe.config
+C:\Users\peter.bozov\source\repos\unicodeChar\bin\Debug\unicodeChar.exe
+C:\Users\peter.bozov\source\repos\unicodeChar\bin\Debug\unicodeChar.pdb
+C:\Users\peter.bozov\source\repos\unicodeChar\obj\Debug\unicodeChar.exe
+C:\Users\peter.bozov\source\repos\unicodeChar\obj\Debug\unicodeChar.pdb
